@@ -1,4 +1,3 @@
-
 import random
 
 # the .randrange() function generates
