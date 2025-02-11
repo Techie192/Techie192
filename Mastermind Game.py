@@ -1,5 +1,5 @@
+#MASTERMIND GAME 
 import random
-
 # the .randrange() function generates
 # a random number within the specified range.
 num = random.randrange(1000, 10000)
